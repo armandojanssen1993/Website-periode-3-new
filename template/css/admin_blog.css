@@ -1,0 +1,75 @@
+.blog_overzicht{
+    color: green;
+}
+
+.comment{
+    background-color: darkgrey;
+    color: #000000;
+    width: 78%;
+    margin-left: 165px;
+}
+
+.userrow{
+    background-color: black;
+    color: #ffffff;
+}
+
+.leesmeer{
+    margin: 0;
+}
+
+.comments{
+    background-color: #ffffff;
+}
+
+/*#showblog{*/
+    /*background-color: darkgray;*/
+/*}*/
+#showblog1{
+    background-color: #49515a;
+    border: solid #000000 2px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    width: 600px;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+#showblog2 h2{
+    margin-left: 10px;
+}
+
+#showblog3 p{
+    color: #ffffff;
+    margin-left: 10px;
+}
+
+#detail{
+    background-color: #49515a;
+    border: solid #000000 2px;
+    margin-bottom: 20px;
+    width: 100%;
+    border-top-left-radius: 4%;
+    border-top-right-radius: 4%;
+}
+
+aside{
+    float: right;
+}
+
+div.innaam input{
+background-color: lightgrey;
+    width: 200px;
+
+}
+
+div.intext textarea{
+    background-color: lightgrey;
+    width: 400px;
+    height: 150px;
+
+}
+
+.naam{
+    margin-left: 16px;
+}
